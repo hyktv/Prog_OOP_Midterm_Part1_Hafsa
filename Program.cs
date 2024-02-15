@@ -95,7 +95,7 @@
 
             // Using our UpdateConfig method to change our connection string.
             // Make sure to pass in the correct information
-            Config.UpdateConnectionString("CramberryFarms", "training", "Admin", "1234");
+            Config.UpdateConnectionString("CramberryFarms", "main", "Admin", "1234");
 
             // Saving the connectionString to a local variable
             string connectionString = Config.ConnectionString;
