@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prog_OOP_Midterm_Part1_Hafsa", "Prog_OOP_Midterm_Part1_Hafsa.csproj", "{3C72CB1B-3F86-4855-B762-3C7E28481229}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C72CB1B-3F86-4855-B762-3C7E28481229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C72CB1B-3F86-4855-B762-3C7E28481229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C72CB1B-3F86-4855-B762-3C7E28481229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C72CB1B-3F86-4855-B762-3C7E28481229}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B749D3F-8066-493F-B0CF-A957121CE5EB}
+	EndGlobalSection
+EndGlobal
